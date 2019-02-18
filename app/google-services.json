@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "985367850760",
+    "firebase_url": "https://safecam-easyquote.firebaseio.com",
+    "project_id": "safecam-easyquote",
+    "storage_bucket": "safecam-easyquote.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:985367850760:android:b30dc04229682be1",
+        "android_client_info": {
+          "package_name": "com.safecam.easyquote"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "985367850760-3j434cm575kic9q4l12qsal7cvsitdmn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.safecam.easyquote",
+            "certificate_hash": "339480c5dc56b90f3b67f858c714166e616e7ba9"
+          }
+        },
+        {
+          "client_id": "985367850760-cjsnguiho4bkas6fhesht6q2qothdo4j.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.safecam.easyquote",
+            "certificate_hash": "5ff1340ae77fd0daa63f5f3b256186f80c46de10"
+          }
+        },
+        {
+          "client_id": "985367850760-52tijtuik00vl3lkd5nmj8d26v2cjit2.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "985367850760-52tijtuik00vl3lkd5nmj8d26v2cjit2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyALhQHKze6onnjGAHqTPBegla23GrNTKhQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "985367850760-52tijtuik00vl3lkd5nmj8d26v2cjit2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
